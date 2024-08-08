@@ -44,10 +44,10 @@ A small collection of Programs.  Some were written while progressing through the
 - Both these functions rename files in the current directory.  The first renames all .py files to .test.  The second renames them back to .py.
 
 
-<!--
 <h2>Java Programs:</h2>
 
-[hello_world.py](https://github.com/mattycjr/programs/blob/main/hello_world.py)
-- Everyone needs a Hello, World!
+[HelloWorldApp.java](https://github.com/mattycjr/programs/blob/main/HelloWorldApp.java)
+- Another one! Hello, World!
 
--->
+[CountDigits.java](https://github.com/mattycjr/programs/blob/main/CountDigits.java)
+- Similar to the Python veresion above, but it is only set to 1,000,000.  However, there are two sets of code.  My version and the version of a friend of mine. Both get the job done, one is more efficient.
