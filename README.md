@@ -9,9 +9,8 @@ A small collection of Programs.  Some were written while progressing through the
 
 - <b>Python3</b>
 - <b>Shell Script</b>
-<!--
 - <b>Java</b>
--->
+
 <h2>Python Programs:</h2>
 
 [hello_world.py](https://github.com/mattycjr/programs/blob/main/hello_world.py)
