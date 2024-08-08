@@ -5,5 +5,5 @@
 for file in *.py; do
 	name=$(basename "$file" .py)
 	mv "$file" "$name.test"
-	echo "$file renamed to "$name.test"
+	echo "$file renamed to $name.test"
 done
