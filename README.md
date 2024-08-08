@@ -3,14 +3,26 @@
  
 
 <h2>Description</h2>
-These are various python programs.  Some were written while progressing through the Google Cybersecurity Certificate and IT Automation with Python Certificate.  Others are tests or small programs I wrote to get answers to a problem.
+A small collection of Python Programs.  Some were written while progressing through the Google Cybersecurity Certificate and IT Automation with Python Certificate.  Others are for fun.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python3</b> 
-- <b>Apps Scripts</b>
 
 <h2>Python Programs:</h2>
-# python3_programs
+
+[hello_world.py](https://github.com/mattycjr/python3_programs/blob/main/hello_world.py)
+- Everyone needs a Hello, World!
+
+[areas.py](https://github.com/mattycjr/python3_programs/blob/main/areas.py)
+- Simple functions to calculate the area of a triangle, rectangle, circle, and donut.  Can be imported in Python and called individually.
+
+[random-exit.py](https://github.com/mattycjr/python3_programs/blob/main/random-exit.py)
+- Returns a random integer for sys.exit
+
+[count_digits.py](https://github.com/mattycjr/python3_programs/blob/main/count_digits.py)
+- This was a fun one.  This program solves an old math brain teaser/challenge from when I was in college.  The point is to count every digit you would pass when counting from 1 - 1,000,000.
+
+
