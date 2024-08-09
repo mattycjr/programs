@@ -1,7 +1,7 @@
 <h1>Various Programs</h1>
 
 <h2>Description</h2>
-A small collection of Programs.  Some were written while progressing through the Google Cybersecurity Certificate and IT Automation with Python Certificate.  Others are for fun.
+A small collection of Programs.  Some were written while progressing through the Google Cybersecurity Certificate and IT Automation with Python Certificate.  Others are for fun.  I left out the individual course Final Projects for now.
 <br />
 
 
