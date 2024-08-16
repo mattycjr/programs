@@ -19,11 +19,11 @@ A small collection of Programs.  Some were written while progressing through the
 [areas.py](https://github.com/mattycjr/programs/blob/main/areas.py)
 - Simple functions to calculate the area of a triangle, rectangle, circle, and donut.  Can be imported in Python and called individually.
 
-[random-exit.py](https://github.com/mattycjr/programs/blob/main/random-exit.py)
-- Returns a random integer for sys.exit
-
 [count_digits.py](https://github.com/mattycjr/programs/blob/main/count_digits.py)
 - This was a fun one.  This program solves an old math brain teaser/challenge from when I was in college.  The point is to count every digit you would pass when counting from 1 - 1,000,000.
+
+[angleCutCalc.py](https://github.com/mattycjr/programs/blob/main/angleCutCalc.py)
+- This program supports my wood working hobby.  In order to make a segmented circle, some calculations have to be made to set up the proper angle on the Miter Saw as well as how long the sides need to be.  This program takes user input and does the math for me.  I even added some rounding to the nearest 1/8.
 
 <h2>Shell Script Programs:</h2>
 
